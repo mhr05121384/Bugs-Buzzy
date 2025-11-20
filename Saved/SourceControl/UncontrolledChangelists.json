@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GateX/Content/Inferno_World_Free/Maps/Demonstration.umap",
+				"D:/GateX/Content/Skybox.uasset",
+				"D:/GateX/Content/SpaceStation.umap",
+				"D:/GateX/Content/Gemini_Generated_Image_us1ke8us1ke8us1k_Mat.uasset",
+				"D:/GateX/Content/Gemini_Generated_Image_28ymjs28ymjs28ym.uasset",
+				"D:/GateX/Content/Gemini_Generated_Image_us1ke8us1ke8us1k.uasset",
+				"D:/GateX/Content/Roof01.uasset",
+				"D:/GateX/Content/Roof02.uasset",
+				"D:/GateX/Content/UnrealMaterial.uasset",
+				"D:/GateX/Content/LUSH_StylizedEnvironmentSet/Maps/DemoMap.umap",
+				"D:/GateX/Content/Inferno_World_Free/Meshes/Props/SM_Gem_002.uasset",
+				"D:/GateX/Content/Inferno_World_Free/Meshes/Props/SM_Gem_003.uasset"
+			]
+		}
+	]
+}
